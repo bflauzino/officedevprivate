@@ -5,7 +5,7 @@
     <meta name="viewport" content="viewport-fit=cover, width=device-width, initial-scale=1, maximum-scale=1" />
     <meta name="robots" content="index, follow" />
     <meta name="referrer" content="origin" />
-    <meta name="theme-color" content="#002266" />
+    <meta name="theme-color" content="#012266" />
     <meta name="application-name" content="M365 Maps" />
     <meta name="mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
